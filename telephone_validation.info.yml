@@ -1,7 +1,6 @@
 name: 'Telephone Validation'
 description: 'Validates telephone fields and tel form element.'
-core: 8.x
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^8 || ^9 || ^10
 dependencies:
   - drupal:telephone
 type: module
